@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69a6d99b57efb3967d46f260"
+  },
+  "texto": "adios",
+  "uCreador": {
+    "id": "69a1837e0ae420f377cffc28",
+    "email": "angel"
+  },
+  "estado": "COMPLETADA",
+  "fechaCreacion": "2026-03-04",
+  "fechaFin": "2026-03-05",
+  "prioridad": "ALTA",
+  "users": [
+    {
+      "id": "69a1837e0ae420f377cffc28",
+      "email": "angel"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a81b44dea3e66847ef083a"
+  },
+  "texto": "ala",
+  "uCreador": {
+    "id": "69a1837e0ae420f377cffc28",
+    "email": "angel"
+  },
+  "estado": "PENDIENTE",
+  "fechaCreacion": "2026-03-04",
+  "fechaFin": "2026-03-05",
+  "prioridad": "BAJA",
+  "users": [
+    {
+      "id": "69a1837e0ae420f377cffc28",
+      "email": "angel"
+    }
+  ]
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "69a1837e0ae420f377cffc28"
+  },
+  "email": "angel",
+  "password": "$2b$10$VeeTbtt2v4cSldV77jKTRupT0RPWDF.wboeX8TVAgtPjUlKtUoI4m"
+},
+{
+  "_id": {
+    "$oid": "69a69e807b1d0a76d7df487c"
+  },
+  "email": "240135@fppiramide.com",
+  "password": "$2b$10$66Huhywj5Bu5VSiLWYm7UuGHJCLr0mercP9FZVlLX7YyMl.A/jiKq"
+}]
